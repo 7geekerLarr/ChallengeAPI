@@ -4,7 +4,8 @@ ChallengeApi
 Descarga
 1.- Para Descargar la App Challenge hay dos opciones:
 
-	1.1 - Ir a la siguiente dirección: https://github.com/7geekerLarr/ChallengeApi.git      y presionar el 	boton CODE la opcion Download ZIP.
+	1.1 - Ir a la siguiente dirección: https://github.com/7geekerLarr/ChallengeApi.git      
+		y presionar el 	boton CODE la opcion Download ZIP.
 
 	1.2.- Ir a la Terminal de comando  y ejecutar este comando: 
 
