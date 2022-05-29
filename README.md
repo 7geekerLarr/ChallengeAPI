@@ -1,5 +1,5 @@
 # Challenge
-ChallengeApi
+ChallengeApi VERSION (.NETCoreApp,Version=v5.0.AssemblyAttributes)
 
 Descarga
 1.- Para Descargar la App Challenge hay dos opciones:
@@ -15,7 +15,8 @@ Descarga
 
 Instalación y ejecución
 
-0.- Ir a la carpeta donde se desplegó la solución a este archivo  ---→  … \Challenge Abrir una terminal de comando.
+0.- Ir a la carpeta donde se desplegó la solución a este 
+archivo  ---→  … \Challenge Abrir una terminal de comando.
 
 
 
